@@ -2,8 +2,6 @@
 
 《架构整洁之道》中文翻译
 
-在线阅读：[http://gdut_yy.gitee.io/doc-cleanarch/](http://gdut_yy.gitee.io/doc-cleanarch/)
-
 <img src="./docs/cover.jpg" width=24% />
 
 ## 前言
